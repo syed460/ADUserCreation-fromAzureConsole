@@ -1,0 +1,10 @@
+{
+    "ResourceGroupName": "<resource group name>",
+    "Storageaccount" : "<storage account name>",
+    "ContainerName" : "new-user-creation",
+    "TenantID": "<Tenent ID>",
+    "Subscription": "<Subscription ID>",
+    "KeyName": "<Key name used>",
+    "UserID": "<APP User ID>",
+    "Azureappkeyencrypted": "<Encrypted application value>"
+}
