@@ -24,6 +24,10 @@ Steps to perform the user creation:
 Step 1:
 	Create CSV File with the user details as below,
     username,discription,email,password,memberof1,memberof2,memberof3
+
+    Example: -
+
+    ![csvfilepic](https://github.com/syed460/ADUserCreation-fromAzureConsole/blob/main/csvfilepic.png "csvfile")
     
 
 Step 2:
