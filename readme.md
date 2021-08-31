@@ -27,7 +27,7 @@ Step 1:
 
     Example: -
 
-    ![csvfilepic](https://github.com/syed460/ADUserCreation-fromAzureConsole/blob/main/csvfilepic.png "csvfile")
+![csvfilepic](https://github.com/syed460/ADUserCreation-fromAzureConsole/blob/main/csvfilepic.png "csvfile")
     
 
 Step 2:
